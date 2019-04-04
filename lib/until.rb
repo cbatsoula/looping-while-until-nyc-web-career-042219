@@ -1,7 +1,6 @@
-
-counter = 5
-
-until counter == 10
+def using_until
+  counter = 5
+  until counter == 10
   counter += 1
   puts "Wingardium Leviosa"
   
